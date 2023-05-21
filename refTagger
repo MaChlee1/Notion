@@ -1,4 +1,4 @@
-`<script>
+<script>
 var refTagger = {
 settings: {
 bibleVersion: 'ESV'
@@ -13,4 +13,4 @@ g.src = '[https://api.reftagger.com/v2/RefTagger.js](https://api.reftagger.com/v
 g.nonce = refTagger.settings.nonce;
 s.parentNode.insertBefore(g, s);
 }(document, 'script'));
-</script>`
+</script>
